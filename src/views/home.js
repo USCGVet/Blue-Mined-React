@@ -16,7 +16,7 @@ const Home = (props) => {
           <div className="home-left-side">
             <img
               alt="image"
-              src="https://play.teleporthq.io/static/svg/default-img.svg"
+              src="/playground_assets/logo-nobackground-200-200h.png"
               className="home-image"
             />
             <div data-role="BurgerMenu" className="home-burger-menu">
@@ -76,7 +76,7 @@ const Home = (props) => {
         <div className="home-content-container">
           <div className="home-hero-text">
             <h1 className="home-heading section-Heading">
-              Welcome to BlueMined.com
+              Welcome to Blue Mined
             </h1>
             <span className="home-text">
               <span className="section-Text">

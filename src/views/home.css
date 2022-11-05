@@ -170,7 +170,9 @@
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: row;
   padding-bottom: var(--dl-space-space-tenunits);
+  background-size: cover;
   justify-content: center;
+  background-image: url('https://play.teleporthq.io/static/svg/logo-nobackground-200.png');
 }
 .home-hero-text {
   width: 65%;
